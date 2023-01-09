@@ -1,0 +1,3 @@
+void imagePopulation () {
+  backgroundImage = loadImage ("  ");
+}
